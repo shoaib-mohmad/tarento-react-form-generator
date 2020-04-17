@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-form-generator/static/css/main.9df7f2fe.chunk.css",
-    "main.js": "/react-form-generator/static/js/main.735c72af.chunk.js",
-    "main.js.map": "/react-form-generator/static/js/main.735c72af.chunk.js.map",
+    "main.css": "/react-form-generator/static/css/main.14a93501.chunk.css",
+    "main.js": "/react-form-generator/static/js/main.b4ae61e7.chunk.js",
+    "main.js.map": "/react-form-generator/static/js/main.b4ae61e7.chunk.js.map",
     "runtime-main.js": "/react-form-generator/static/js/runtime-main.0af6531a.js",
     "runtime-main.js.map": "/react-form-generator/static/js/runtime-main.0af6531a.js.map",
     "static/js/2.5069bbd7.chunk.js": "/react-form-generator/static/js/2.5069bbd7.chunk.js",
     "static/js/2.5069bbd7.chunk.js.map": "/react-form-generator/static/js/2.5069bbd7.chunk.js.map",
     "index.html": "/react-form-generator/index.html",
-    "precache-manifest.369d2ec0c3845c2c4ba00d9d7d726f32.js": "/react-form-generator/precache-manifest.369d2ec0c3845c2c4ba00d9d7d726f32.js",
+    "precache-manifest.062c5bbed6de013209f3739c4a34a5d6.js": "/react-form-generator/precache-manifest.062c5bbed6de013209f3739c4a34a5d6.js",
     "service-worker.js": "/react-form-generator/service-worker.js",
-    "static/css/main.9df7f2fe.chunk.css.map": "/react-form-generator/static/css/main.9df7f2fe.chunk.css.map",
+    "static/css/main.14a93501.chunk.css.map": "/react-form-generator/static/css/main.14a93501.chunk.css.map",
     "static/js/2.5069bbd7.chunk.js.LICENSE.txt": "/react-form-generator/static/js/2.5069bbd7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0af6531a.js",
     "static/js/2.5069bbd7.chunk.js",
-    "static/css/main.9df7f2fe.chunk.css",
-    "static/js/main.735c72af.chunk.js"
+    "static/css/main.14a93501.chunk.css",
+    "static/js/main.b4ae61e7.chunk.js"
   ]
 }
