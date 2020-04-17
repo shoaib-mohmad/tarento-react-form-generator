@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tarento-react-form-generator/static/css/main.0a26a5c9.chunk.css",
-    "main.js": "/tarento-react-form-generator/static/js/main.0d8fbf42.chunk.js",
-    "main.js.map": "/tarento-react-form-generator/static/js/main.0d8fbf42.chunk.js.map",
-    "runtime-main.js": "/tarento-react-form-generator/static/js/runtime-main.91572685.js",
-    "runtime-main.js.map": "/tarento-react-form-generator/static/js/runtime-main.91572685.js.map",
-    "static/js/2.149b30c3.chunk.js": "/tarento-react-form-generator/static/js/2.149b30c3.chunk.js",
-    "static/js/2.149b30c3.chunk.js.map": "/tarento-react-form-generator/static/js/2.149b30c3.chunk.js.map",
-    "index.html": "/tarento-react-form-generator/index.html",
-    "precache-manifest.b49e32511da283b497ae080bc0bc5420.js": "/tarento-react-form-generator/precache-manifest.b49e32511da283b497ae080bc0bc5420.js",
-    "service-worker.js": "/tarento-react-form-generator/service-worker.js",
-    "static/css/main.0a26a5c9.chunk.css.map": "/tarento-react-form-generator/static/css/main.0a26a5c9.chunk.css.map",
-    "static/js/2.149b30c3.chunk.js.LICENSE.txt": "/tarento-react-form-generator/static/js/2.149b30c3.chunk.js.LICENSE.txt"
+    "main.css": "/react-form-generator/static/css/main.9df7f2fe.chunk.css",
+    "main.js": "/react-form-generator/static/js/main.735c72af.chunk.js",
+    "main.js.map": "/react-form-generator/static/js/main.735c72af.chunk.js.map",
+    "runtime-main.js": "/react-form-generator/static/js/runtime-main.0af6531a.js",
+    "runtime-main.js.map": "/react-form-generator/static/js/runtime-main.0af6531a.js.map",
+    "static/js/2.5069bbd7.chunk.js": "/react-form-generator/static/js/2.5069bbd7.chunk.js",
+    "static/js/2.5069bbd7.chunk.js.map": "/react-form-generator/static/js/2.5069bbd7.chunk.js.map",
+    "index.html": "/react-form-generator/index.html",
+    "precache-manifest.369d2ec0c3845c2c4ba00d9d7d726f32.js": "/react-form-generator/precache-manifest.369d2ec0c3845c2c4ba00d9d7d726f32.js",
+    "service-worker.js": "/react-form-generator/service-worker.js",
+    "static/css/main.9df7f2fe.chunk.css.map": "/react-form-generator/static/css/main.9df7f2fe.chunk.css.map",
+    "static/js/2.5069bbd7.chunk.js.LICENSE.txt": "/react-form-generator/static/js/2.5069bbd7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.91572685.js",
-    "static/js/2.149b30c3.chunk.js",
-    "static/css/main.0a26a5c9.chunk.css",
-    "static/js/main.0d8fbf42.chunk.js"
+    "static/js/runtime-main.0af6531a.js",
+    "static/js/2.5069bbd7.chunk.js",
+    "static/css/main.9df7f2fe.chunk.css",
+    "static/js/main.735c72af.chunk.js"
   ]
 }
