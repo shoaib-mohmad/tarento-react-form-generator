@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tarento-react-form-generator/precache-manifest.ac7b98f996d9c9e3c7c040bd5b84cfb8.js"
+  "/tarento-react-form-generator/precache-manifest.90ee13926c926791eb611b75a5032dbd.js"
 );
 
 self.addEventListener('message', (event) => {
